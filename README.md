@@ -1,2 +1,2 @@
-# tduna_puppet5
-Learning Puppet 5
+# td_puppet
+Learning Puppet and Idenitfying Puppet Directory Structures, Filess and File Relationships
